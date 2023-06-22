@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+📫 How to reach me:
+-  iyad.adnan.saeed@gmail.com
+-  https://www.linkedin.com/in/eyad-adnan
+  
 <!--
 **Eyad0b/Eyad0b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
