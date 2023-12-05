@@ -5,6 +5,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 
+<br><br><br><br><br><br>
+
 - 🌱 I’m currently learning **GetX**
 - 💬 Ask me about **flutter, dart, APIs, Provider, android studio, C++**
 - 📫 How to reach me:
