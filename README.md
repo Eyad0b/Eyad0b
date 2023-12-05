@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iyad Adnan</h1>
 <h3 align="center">Flutter Developer | Android Native | Unity Developer </h3>
 
-<br><br><br>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
-
-<br><br>
 
 - 🔭 I’m currently working on [DrEhab](https://github.com/abufaddaabdallah/ecommerce_full_application.git)
 - 🌱 I’m currently learning **GetX**
